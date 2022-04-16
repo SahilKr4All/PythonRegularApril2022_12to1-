@@ -1,0 +1,17 @@
+Variables(unknown value) & constant(fixed)
+x = 5
+x=3
+x=10
+Rules for creating variables
+1.first character of variable must be alphabetical value /only single character(_)
+2.variable name must not contain spaces or special character(excluding _)
+
+How to print in Python???
+number1 = 10
+number2 = 20
+#comments
+#print("The sum of ",number1,"and",number2,"is",number1+number2)
+#print("The sum of {} and {} is {}".format(number1,number2,number1+number2))
+print(f"The sum of {number1} and {number2} is {number1+number2}")
+
+Data Types
