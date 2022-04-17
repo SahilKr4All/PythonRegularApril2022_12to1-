@@ -15,3 +15,26 @@ number2 = 20
 print(f"The sum of {number1} and {number2} is {number1+number2}")
 
 Data Types
+1.Number - int,float,complex
+2.String - character/sentence/word/para - ""
+3.Boolean - True/False
+
+Operators:
+1.Arithmetical Operators- +,-,/,*,%,**,//
+2.COmparison/Relational Operator  >,<,==,>=,<=,!=
+3.Logical Operators - and,or,not
+and - if both conditions are True,then only result is True
+T and T = T
+T and F = F
+F and F= F
+
+or - for result True,atleast one condition must be True
+T or F = T
+F or F = F
+
+not ->
+T->F
+F->T
+
+
+Python is a "High Level Language"
